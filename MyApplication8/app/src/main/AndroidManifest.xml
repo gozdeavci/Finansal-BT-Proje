@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.barbaros.raceyourwords">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/raceyourwords"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/raceyourwords"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.barbaros.raceyourwords.MainActivity">
+        </activity>
+        <activity android:name="com.example.barbaros.raceyourwords.TestActivity" />
+        <activity android:name="com.example.barbaros.raceyourwords.FinishActivity" >
+
+        </activity>
+
+
+        <activity android:name="com.example.barbaros.raceyourwords.InsertActivity" />
+        <activity android:name="com.example.barbaros.raceyourwords.LocalDictionary" />
+        <activity android:name="com.example.barbaros.raceyourwords.YarismaActivity">
+
+        </activity>
+        <activity android:name="com.example.barbaros.raceyourwords.Login" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name="com.example.barbaros.raceyourwords.SignUp" />
+        <activity android:name="com.example.barbaros.raceyourwords.StartActivity" >
+
+       </activity>
+        <activity android:name="com.example.barbaros.raceyourwords.AppMain" />
+        <activity android:name="com.example.barbaros.raceyourwords.RakipAra" />
+        <activity android:name="com.example.barbaros.raceyourwords.OnlineDictionary"></activity>
+    </application>
+
+</manifest>

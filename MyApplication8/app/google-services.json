@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042015703798",
+    "firebase_url": "https://raceyourwords-1ccbf.firebaseio.com",
+    "project_id": "raceyourwords-1ccbf",
+    "storage_bucket": "raceyourwords-1ccbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042015703798:android:bf91143aa38dfacc",
+        "android_client_info": {
+          "package_name": "com.example.barbaros.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042015703798-ti70d8qtvnds2pr39r2jotf97pp3l0vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlW5EHDt3k8B_NVmdJn-9TV1boCejwCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

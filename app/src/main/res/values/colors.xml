@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c1f30</color>
+    <color name="colorPrimaryDark">#5c1f30</color>
+    <color name="colorAccent">#194ea9</color>
+    <color name="color_A">#58b4e6</color>
+    <color name="color_B">#3271de</color>
+    <color name="color_C">#84e796</color>
+    <color name="color_D">#538c48</color>
+    <color name="color_op">#e29797</color>
+    <color name="color_sozluk">#FFDE4C</color>
+    <color name="color_yarisma">#6AB236</color>
+    <color name="color_arkekle">#195b99</color>
+    <color name="color_arklist">#2a8bbf</color>
+    <color name="color_prof">#EA6159</color>
+    <color name="app_background">#BDBBBB</color>
+    <color name="btn_loginActivity">#5c1f30</color>
+    <color name="et_hintColor">#91314C</color>
+    <color name="textColor">#000000</color>
+</resources>
